@@ -35,7 +35,7 @@ subtitle: xwMOOC와 함께하는 한국인 - 기계와의 경쟁을 준비하며
 
 > ### Data Sharing and Management Snafu in 3 Short Acts {.prereq}
 > 
->  <iframe width="560" height="315" src="https://www.youtube.com/embed/N2zK3sAtr-4" frameborder="0" allowfullscreen></iframe>
+>  <iframe width="420" height="315" src="https://www.youtube.com/embed/N2zK3sAtr-4" frameborder="0" allowfullscreen></iframe>
 
 - [공개 과학(Open Science)](http://statkclee.github.io/git-novice/10-open-kr.html)
 - [라이선싱(Licensing)](http://statkclee.github.io/git-novice/11-licensing-kr.html)
@@ -44,6 +44,26 @@ subtitle: xwMOOC와 함께하는 한국인 - 기계와의 경쟁을 준비하며
     + 콘텐츠 라이선스
     + 하드웨어 라이선스
 - [비즈니스를 위한 오픈 소스 소프트웨어](http://statkclee.github.io/open-source-for-business/)
+- 오픈 과학 참고 자료 [^open-science-stepi] [^open-science-times]
+    + [바이오토픽 - 재현불가 논문을 공개하는 온라인 저널 출범](http://www.ibric.org/myboard/read.php?Board=news&id=269423)
+        - 암젠의 연구자들은 기념비적 암생물학 연구결과들을 재현해본 결과, 53건 중 겨우 6건만 성공하는 데 그쳤다.
+    + 공개과학 저널 및 관련 정보
+        - 의학 : [플로스(PLoS)](https://www.plos.org/)
+        - 바이오 의료 : [PubMedCentral](http://www.ncbi.nlm.nih.gov/pmc/)
+        - 물리·수학 : [아카이브(arXiv)](http://arxiv.org/)
+        - 경제학 : [RePEc](http://repec.org)
+        - 통계 R 언어 : [The R Journal](https://journal.r-project.org/), [Journal of Statistical Software](https://www.jstatsoft.org/)
+        - 과학자를 위한 사회관계망서비스(SNS) : [리서치게이트](http://www.researchgate.net/)
+        - 수학에 대한 지식iN, SW 스택오버플로우 : [매쓰오버플로어(mathoverflow)](http://mathoverflow.net/)
+
+[^open-science-stepi]: [오픈 사이언스에 관한 OECD 논의 동향과 시사점](http://www.stepi.re.kr/app/publish/view.jsp?cmsCd=CM0019&categCd=A0502&ntNo=116)
+[^open-science-times]: [과학도 '개방, 참여, 협업'의 시대](http://www.sciencetimes.co.kr/?news=%EA%B3%BC%ED%95%99%EB%8F%84-039%EA%B0%9C%EB%B0%A9-%EC%B0%B8%EC%97%AC-%ED%98%91%EC%97%85039%EC%9D%98-%EC%8B%9C%EB%8C%80)
+
+
+> ### Open Access Explained! {.prereq}
+> 
+>  <iframe width="420" height="315" src="https://www.youtube.com/embed/L5rVH1KGBCY" frameborder="0" allowfullscreen></iframe>
+
 
 ### xwMOOC 뉴스 
 
